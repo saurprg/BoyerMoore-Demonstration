@@ -1,5 +1,3 @@
-package boyermooredemo;
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -33,11 +31,12 @@ import javax.swing.text.DefaultHighlighter;
 import javax.swing.text.Highlighter;
 
 /**
- * Author : saur_prg 
+ * Author      : saur_prg 
  * Description : This Program demonstrates the implementation of boyer moore
  *               algorithm for patter searching in text file
- * 
+ * Date        : 15 - 02 -2019
  */
+
 public class BoyerMooreDemo {
     
     JFrame frame;
