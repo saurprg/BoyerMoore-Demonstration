@@ -19,7 +19,7 @@
         - animate - method executes the animation logic if animate is true else executes normally
    5. *animate()* : starts the thread which runs the algorithm for showing the step by step demostration of algo
    6. *findAll()* : Highlights all the occurences of pattern in the text
-   
-   *detailed wire-frame diagram can be found [here](https://wireframe.cc/pro/pp/0fd4d1aff231057)*
-   
-   *OR you can find it in BMDemo-wireframe.pdf*
+ 
+ ## Wire Frame Diagram
+ *detailed wire-frame diagram can be found [here](https://wireframe.cc/pro/pp/0fd4d1aff231057)*
+ *OR you can find it in BMDemo-wireframe.pdf*
