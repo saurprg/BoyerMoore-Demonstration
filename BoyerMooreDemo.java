@@ -103,6 +103,7 @@ public class BoyerMooreDemo {
         hl3 = pattern3.getHighlighter();
         hl30= data3.getHighlighter();
         frame3=new JPanel(new BorderLayout(0, 1));
+        //Thread which runs animation 
         timer=new Thread(() -> {
             try {
                 search(data.toCharArray(),pat.toCharArray(),true);
