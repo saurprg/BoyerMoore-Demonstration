@@ -1,8 +1,8 @@
 # BoyerMoore-Demonstration
 
    This is the simple demostration of boyer moore string search algorithm using a animation for showing how the comaparisions are being done between the search string and text in which string is to be searched.
-   
-   ## BoyerMooreDemo.java file
+
+## BoyerMooreDemo.java file
    This file consists of the code for demonstaring the boyer-moore string search algorithm for pattern matching using animation and java swing.
    
    **Methods and their description** 
