@@ -23,3 +23,6 @@
  ## Wire Frame Diagram
  *detailed wire-frame diagram can be found [here](https://wireframe.cc/pro/pp/0fd4d1aff231057)*
  *OR you can find it in BMDemo-wireframe.pdf*
+ 
+ ## TestInput
+   *TestInput.txt file contains the sample input file in which required pattern can be searched*
